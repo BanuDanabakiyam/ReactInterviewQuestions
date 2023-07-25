@@ -1,0 +1,20 @@
+what is pagination?
+Pagination is a technique used in web design and content organization to divide large amounts of information 
+into smaller, more manageable chunks called pages. It is commonly used in websites, search engines, 
+and other applications where presenting all content on a single page would be impractical or overwhelming.
+
+
+useEffects takes 2 things callback,arraydependencies.It's run when the components render
+
+
+async,fetch,awai,response,data
+This is an asynchronous function that fetches data from the URL "https://dummyjson.com/products?limit=100". It uses the fetch function, which is a built-in method in modern browsers to perform HTTP requests. The await keyword is used to wait for the response to be fetched before moving on to the next line of code. Once the response is received, the response.json() method is called to extract the JSON data from the response body.
+
+
+what is map?
+map is array function in javascript
+
+The alt attribute is used as alternative information when the image cannot be displayed or when it is read by screen readers for accessibility.
+
+
+slice is an array function it takes 2 thing startnumber, endnumber.
