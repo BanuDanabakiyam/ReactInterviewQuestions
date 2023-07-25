@@ -64,3 +64,14 @@ button {
     padding: 20px;
 
 }
+.errorMessage {
+    color: red;
+    padding-bottom: 15px;
+}
+.password-strength {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    color: white;
+}
