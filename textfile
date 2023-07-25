@@ -1,0 +1,13 @@
+The key attribute is required when rendering arrays of elements in React to help React efficiently update and manage the DOM.
+
+What is useState?
+useState is come from react ,it is called hook in react
+It is used to manage the changing variables in our app.
+
+what is cutsom hook?
+it can allow some logic inside our app.
+
+Math.random() * 20;
+10.56878787878686997
+Math.floor(10.56878787878686997)
+10
