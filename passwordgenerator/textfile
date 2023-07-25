@@ -13,4 +13,4 @@ Math.floor(10.56878787878686997)
 10
 
 if (!passwordStrength) return <React.Fragment />;: This condition checks if the passwordStrength variable is falsy (i.e., if it's an empty string or null or undefined). If passwordStrength is falsy, the function returns an empty React fragment <React.Fragment />. An empty fragment is used to indicate that there is no password strength to display, typically when the password argument is empty or not provided.
-
+.......
