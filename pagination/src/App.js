@@ -22,6 +22,7 @@ function App() {
      },[page]);
 
      const selectPageHandler = (selectedPage) => {
+      console.log(selectPageHandler);
       if(
         selectedPage >= 1 &&
         selectedPage <= totalPages &&
