@@ -1,0 +1,4 @@
+push = add items at very last
+unshift = add items at very first
+
+depthfirstserach => its search every folder to present every folder and file then goes to next folder
