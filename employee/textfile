@@ -1,0 +1,25 @@
+// Difference between foreach and map
+// Purpose: The forEach method is used to iterate over each element of an array and execute a callback function for each element.
+// Return value: It does not return anything (returns undefined).
+// const numbers = [1, 2, 3, 4];
+// numbers.forEach((number) => {
+//   console.log(number);
+// });
+// Output:
+// 1
+// 2
+// 3
+// 4
+
+
+// Purpose: The map method is used to create a new array by applying a callback function to each element of the original array. 
+// It transforms the elements of the array and returns a new array with the transformed values.
+// Return value: It returns a new array containing the results of applying the callback function to each element of the original array.
+// const numbers = [1, 2, 3, 4];
+// const doubledNumbers = numbers.map((number) => {
+//   return number * 2;
+// });
+// console.log(doubledNumbers); // Output: [2, 4, 6, 8]
+
+
+
